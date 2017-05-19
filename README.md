@@ -15,3 +15,5 @@ puts "this is code"
 puts "this is code"
 if this then that
 ```
+### A good Getting Started Example
+look at it [here](https://github.com/rails/rails).
